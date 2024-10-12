@@ -105,16 +105,22 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#3190f0"
+				"foreground": "#c0dcf9"
 			}
 		},
+		{
+      "scope": "meta.property.object", // Targets property access (e.g., id in id.string())
+      "settings": {
+        "foreground": "#eccc8b" // Level 1 chaining (e.g., id)
+      }
+    },
 		{
 			"name": "Colors",
 			"scope": [
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#eccc8b"
 			}
 		},
 		{
