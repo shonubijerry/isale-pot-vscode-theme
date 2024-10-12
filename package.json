@@ -1,0 +1,21 @@
+{
+  "name": "true-dark",
+  "displayName": "True Dark",
+  "description": "Really black background with contrasting text colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "True Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/True Dark-color-theme.json"
+      }
+    ]
+  }
+}
