@@ -4,6 +4,8 @@ I grew tired of dark theme and decided to create one customised to my taste. If 
 
 I don't plan on publishing it yet, as I will not transfer my hell to others. But if you decided to join me here's how to get there
 
+![alt True Dark Preview](https://github.com/shonubijerry/true-dark-vscode-theme/blob/main/true-dark-preview.png?raw=true)
+
 ## Setup
 - Clone this repo
 
