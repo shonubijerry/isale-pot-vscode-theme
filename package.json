@@ -1,23 +1,24 @@
 {
-  "name": "true-dark",
-  "displayName": "True Dark",
+  "name": "isale-pot",
+  "displayName": "Isale Pot - Dark Theme",
   "description": "Really black background with contrasting text colors.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.40.0"
   },
   "repository": {
-    "url": "https://github.com/shonubijerry/true-dark-vscode-theme.git"
+    "url": "https://github.com/shonubijerry/isale-pot-vscode-theme.git"
   },
   "categories": [
     "Themes"
   ],
+  "publisher": "Olu",
   "contributes": {
     "themes": [
       {
-        "label": "True Dark",
+        "label": "Isale Pot - Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/True Dark-color-theme.json"
+        "path": "./themes/isale-pot-color-theme.json"
       }
     ]
   }
