@@ -2,7 +2,8 @@
   "name": "isale-pot",
   "displayName": "Isale Pot - Dark Theme",
   "description": "Really black background with contrasting text colors.",
-  "version": "0.0.1",
+  "icon": "images/isale-pot.png",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.40.0"
   },
