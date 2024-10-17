@@ -2,7 +2,7 @@
 
 I grew tired of dark theme and decided to create one customised to my taste. If you're my kind of weirdo, this might interest you.
 
-I don't plan on publishing it yet, as I will not transfer my hell to others. But if you decided to join me here's how to get there
+To not transfer my hell to others. I have decided show you how to get out of your own.
 
 ![alt Isale Pot Preview](https://github.com/shonubijerry/true-dark-vscode-theme/blob/main/true-dark-preview.png?raw=true)
 
